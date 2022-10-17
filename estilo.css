@@ -119,3 +119,10 @@ figcaption { font: 120% sans-serif; text-align: center;}
     padding-left: 3em;
     padding-right: 3em;
 }
+.ffotos{
+    background-color: rgb(63, 58, 58);
+}
+.rodapef{
+    background-color: rgb(63, 58, 58);
+    color: white;
+}
